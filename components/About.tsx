@@ -72,17 +72,17 @@ export default function About() {
                   <div className="w-3 h-3 rounded-full bg-green-500"></div>
                 </div>
                 <div className="space-y-2 font-mono text-sm">
-                  <div className="text-gray-400">// Modern Stack</div>
+                  <div className="text-gray-400">{'// Modern Stack'}</div>
                   <div>
                     <span className="text-purple-600">const</span>{' '}
                     <span className="text-blue-600">stack</span> ={' '}
                     <span className="text-green-600">[</span>
                   </div>
                   <div className="pl-4">
-                    <span className="text-yellow-600">'Next.js'</span>,<br />
-                    <span className="text-yellow-600">'TypeScript'</span>,<br />
-                    <span className="text-yellow-600">'Tailwind CSS'</span>,<br />
-                    <span className="text-yellow-600">'Framer Motion'</span>
+                    <span className="text-yellow-600">&apos;Next.js&apos;</span>,<br />
+                    <span className="text-yellow-600">&apos;TypeScript&apos;</span>,<br />
+                    <span className="text-yellow-600">&apos;Tailwind CSS&apos;</span>,<br />
+                    <span className="text-yellow-600">&apos;Framer Motion&apos;</span>
                   </div>
                   <div>
                     <span className="text-green-600">]</span>;
